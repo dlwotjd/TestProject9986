@@ -1,10 +1,1 @@
-hello
-
-hello
-
-<<<<<<< HEAD
-=======
-hello
-
-hello
->>>>>>> master
+kimleehyun
